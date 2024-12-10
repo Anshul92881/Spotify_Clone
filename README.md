@@ -22,6 +22,10 @@ A front-end web application that mimics the look and feel of Spotify's web playe
 - **SVG Icons**: To enhance the user interface.
 
 ---
+## Preview
+![Image Alt](https://github.com/Anshul92881/Spotify_Clone/blob/main/Screenshot%202024-12-10%20111241.png)
+
+---
 
 ## Project Structure 📂
 
