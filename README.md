@@ -67,4 +67,4 @@ Icons: Spotify-inspired SVG assets.
 Inspiration: The official Spotify Web Player.
 
 ## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
