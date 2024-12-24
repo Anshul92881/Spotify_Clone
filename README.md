@@ -46,15 +46,12 @@ Spotify_Clone/
 └── assets/          # Additional image resources
 
 ---
-
-## Installation and Usage 🚀
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Anshul92881/Spotify_Clone.git
-cd Spotify_Clone
-
+  ## Installation and Usage
+  
+    **Clone the repo:**
+  
+    git clone https://github.com/Anshul92881/Spotify_Clone.git
+    cd Spotify_Clone
 ---
 
 ## Future Enhancements 🛠️:
