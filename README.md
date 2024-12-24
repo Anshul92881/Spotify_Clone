@@ -49,22 +49,27 @@ Spotify_Clone/
 
 ## Installation and Usage 🚀
 
-### Clone the repository:
+Clone the repository:
 
-bash:
+```bash
 git clone https://github.com/Anshul92881/Spotify_Clone.git
 cd Spotify_Clone
 
-### Future Enhancements 🛠️:
+---
 
-1. Add a backend for real-time music streaming.
-2. Include user authentication for personalized libraries.
-3. Enhance animations and transitions for a better user experience.
-4. Add real-time search functionality.
+## Future Enhancements 🛠️:
+
+1. **Add a backend for real-time music streaming.**
+2. **Include user authentication for personalized libraries.**
+3. **Enhance animations and transitions for a better user experience.**
+4. **Add real-time search functionality.**
 
 ## Acknowledgements 🙏
-Icons: Spotify-inspired SVG assets.
-Inspiration: The official Spotify Web Player.
+
+- **Icons**: Spotify-inspired SVG assets.  
+- **Inspiration**: The official Spotify Web Player.
 
 ## License 📜
-This project is licensed under the MIT License. 
+
+**This project is licensed under the MIT License.**
+
